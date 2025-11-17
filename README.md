@@ -1,16 +1,16 @@
 ## Hi there 👋
+ Im Jade Leonard ,frontend developer from Philippines.
 
-<!--
-**Jade-Leonard25/Jade-Leonard25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build some component library, design web interface and create real time applications.
+yeah 3am is the best time of me, its building time then :).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main Tech stack is SvelteKit,Nextjs,ReactJs,Typescript,Javascript, Framer-motion for some animation but usually is used my own component library
+
+My projects are my experience for coding. It helps so much for developing learning tools, also the services that offer deployment with 0 cost will make you 100% understand building realtime application.
+Some of my projects are CI/CD pipeline ready :) cause it takes me 1 week to understand learning it so burn out incoming then.
+
+
+Notes : Your never burn out your not the real one have a nice day everybody, dont let AI replace your gift as person. Dont stop learning thank you.
+
+
