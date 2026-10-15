@@ -11,6 +11,6 @@ My projects are my experience for coding. It helps so much for developing learni
 Some of my projects are CI/CD pipeline ready :).
 
 
-Notes : Your never burn out your not the real one have a nice day everybody, dont let AI replace your gift as person. Dont stop learning thank you.
+ dont let AI replace your gift as person. Dont stop learning thank you.
 
 
